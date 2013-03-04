@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../login/Login.iml" filepath="$PROJECT_DIR$/../login/Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../login/Login-grailsPlugins.iml" filepath="$PROJECT_DIR$/../login/Login-grailsPlugins.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/empsys/empsys.iml" filepath="$USER_HOME$/Downloads/empsys/empsys.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/empsys/empsys-grailsPlugins.iml" filepath="$USER_HOME$/Downloads/empsys/empsys-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_test.iml" filepath="$PROJECT_DIR$/project_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_test-grailsPlugins.iml" filepath="$PROJECT_DIR$/project_test-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search.iml" filepath="$PROJECT_DIR$/search/search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search-grailsPlugins.iml" filepath="$PROJECT_DIR$/search/search-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchTest/searchTest.iml" filepath="$PROJECT_DIR$/searchTest/searchTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchTest/searchTest-grailsPlugins.iml" filepath="$PROJECT_DIR$/searchTest/searchTest-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>
+
